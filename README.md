@@ -1,0 +1,2 @@
+# notas
+android emulation  notas
